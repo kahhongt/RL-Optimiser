@@ -21,6 +21,10 @@ sdist/
 var/
 wheels/
 pip-wheel-metadata/
+
+# ipynb
+.ipynb_checkpoints
+
 share/python-wheels/
 *.egg-info/
 .installed.cfg
